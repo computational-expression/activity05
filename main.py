@@ -1,6 +1,6 @@
 # Activity 5: NFL Week 4 Fantasy Tracker! 🏈
 
-print("🏈 Welcome to NFL Week 4 Fantasy Manager!")
+print("🏈 Welcome to NFL Fantasy Manager!")
 print("Build and manage your fantasy team using lists!")
 print()
 
