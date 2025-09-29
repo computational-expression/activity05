@@ -26,5 +26,5 @@ Complete the TODOs in `main.py` to practice working with lists.
 
 This activity is assessed on a **pass/fail basis**:
 
-- **1 point**: Awarded if 67% or more of the program functionality is completed
-- **0 points**: Awarded if less than 67% of the program functionality is completed
+- **1 point**: Awarded if 50% or more of the program functionality is completed
+- **0 points**: Awarded if less than 50% of the program functionality is completed
